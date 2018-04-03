@@ -1,6 +1,6 @@
 # Stencil demo repo to showcase bundling issue with `mongoose`
 
-Although is mainly a server side module it can be used in the browser (e.g. for validation, creating models etc.). Importing it into Stencil is buggy though.
+Although mainly a server side module `mongoose` can be used in the browser (e.g. for validation, creating models etc.). Importing it into Stencil is buggy though.
 
 This is presumably due to the "dynamic" flavor of the mongoose imports /requires. Read about it [here](https://github.com/Automattic/mongoose/issues/5365).
 
