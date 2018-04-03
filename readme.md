@@ -11,4 +11,4 @@ This is presumably due to the "dynamic" flavor of the mongoose imports /requires
 
 # Error in Chrome:
 
-![Error in Chrome]()
+![Error in Chrome](https://github.com/bitflower/stencil-mongoose-issue/raw/master/error.png)
